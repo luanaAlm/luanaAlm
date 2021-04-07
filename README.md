@@ -4,7 +4,7 @@
 - I live in Brazil, northeast :brazil: 
 - I have been learnig more about Python and Django
 
-#### Connect with me:
+#### Connect with me
 <a href="https://www.linkedin.com/in/luanarodriguesalmeida/" target="_blank">
   <img align="center" alt="luana-linkedin" height="30" width="40" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" >
 </a>
