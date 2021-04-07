@@ -4,7 +4,7 @@
 - I live in Brazil, northeast :brazil: 
 - I have been learnig more about Python and Django
 
-## Connect with me:
+#### Connect with me:
 <a href="https://www.linkedin.com/in/luanarodriguesalmeida/" target="_blank">
   <img align="center" alt="luana-linkedin" height="30" width="40" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" >
 </a>
@@ -15,18 +15,19 @@
   <img align="center" alt="luana-facebook" height="30" width="40" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" >
 </a>
 
-## My Skills
-
+#### My Skills
 <img align="center" alt="luana-facebook" height="40" width="40" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></img>
 <img align="center" alt="luana-facebook" height="40" width="40" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></img>
 <img align="center" alt="luana-facebook" height="40" width="40" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></img>
 <img align="center" alt="luana-facebook" height="40" width="40" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"></img>
 
-## Learning
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
+
+#### Learning
 <img align="center" alt="luana-facebook" height="40" width="40" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></img>
 <img align="center" alt="luana-facebook" height="40" width="40" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></img>
 
-## Top Languages Card
+#### Top Languages Card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanaAlm&layout=compact)](https://github.com/luanaAlm/github-readme-stats)
 
 
