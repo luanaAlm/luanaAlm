@@ -15,8 +15,16 @@
   <img align="center" alt="luana-facebook" height="30" width="40" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" >
 </a>
 
+## My Skills
 
+<img align="center" alt="luana-facebook" height="40" width="40" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></img>
+<img align="center" alt="luana-facebook" height="40" width="40" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></img>
+<img align="center" alt="luana-facebook" height="40" width="40" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></img>
+<img align="center" alt="luana-facebook" height="40" width="40" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"></img>
 
+## Learning
+<img align="center" alt="luana-facebook" height="40" width="40" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></img>
+<img align="center" alt="luana-facebook" height="40" width="40" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></img>
 <!--
 **luanaAlm/luanaAlm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
