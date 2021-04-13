@@ -16,10 +16,10 @@
 </a>
 
 #### My Skills
-<img align="center" alt="luana-facebook" height="40" width="40" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></img>
-<img align="center" alt="luana-facebook" height="40" width="40" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></img>
-<img align="center" alt="luana-facebook" height="40" width="40" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></img>
-<img align="center" alt="luana-facebook" height="40" width="40" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"></img>
+<img align="center" alt="" height="40" width="40" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></img>
+<img align="center" alt="" height="40" width="40" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></img>
+<img align="center" alt="" height="40" width="40" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></img>
+<img align="center" alt="" height="40" width="40" style="max-width:100%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"></img>
 
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
 
